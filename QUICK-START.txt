@@ -1,0 +1,58 @@
+═══════════════════════════════════════════════════════════
+    🍰 SWEET TREATS - QUICK GITHUB DEPLOYMENT GUIDE
+═══════════════════════════════════════════════════════════
+
+STEP 1: CREATE GITHUB REPOSITORY
+---------------------------------
+1. Go to: https://github.com
+2. Click: "+" icon → "New repository"
+3. Name: sweet-treats
+4. Description: A bakery e-commerce website
+5. Public ✓
+6. DON'T check "Add README" or any other options
+7. Click: "Create repository"
+
+
+STEP 2: PUSH TO GITHUB
+-----------------------
+Open Terminal in: d:\SweetTreats\SweetTreats\SweetTreats
+
+Then copy-paste these commands:
+
+cd d:\SweetTreats\SweetTreats\SweetTreats
+
+git add .
+
+git commit -m "Initial commit - Sweet Treats Bakery Website"
+
+git remote add origin https://github.com/YOUR_USERNAME/sweet-treats.git
+
+git push -u origin main
+
+
+⚠️ REPLACE "YOUR_USERNAME" with your actual GitHub username!
+
+
+STEP 3: ENABLE GITHUB PAGES (Optional - Free Hosting)
+------------------------------------------------------
+1. Go to your repository on GitHub
+2. Settings → Pages (left sidebar)
+3. Source: Branch "main" → Save
+4. Wait 2 minutes
+5. Live at: https://YOUR_USERNAME.github.io/sweet-treats/html/index.html
+
+
+═══════════════════════════════════════════════════════════
+
+NEED HELP?
+----------
+Read: DEPLOYMENT-GUIDE.md (detailed instructions)
+Read: README.md (project info)
+
+═══════════════════════════════════════════════════════════
+
+AUTHENTICATION NOTE:
+When pushing, use GitHub Personal Access Token as password:
+GitHub → Settings → Developer settings → Personal access tokens
+
+═══════════════════════════════════════════════════════════
