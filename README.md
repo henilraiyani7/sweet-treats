@@ -4,10 +4,6 @@ A fully functional e-commerce bakery website with admin panel built using HTML, 
 
 ![Sweet Treats](https://images.unsplash.com/photo-1517433670267-08bbd4be890f?q=80&w=1200&auto=format&fit=crop)
 
-## 🌟 Live Demo
-
-[View Live Demo](#) <!-- Add your GitHub Pages link here after deployment -->
-
 ## ✨ Features
 
 ### 🛍️ Customer Features
@@ -40,7 +36,7 @@ Try these codes at checkout:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sweet-treats.git
+   git clone https://github.com/henilraiyani7/sweet-treats.git
    cd sweet-treats
    ```
 
@@ -173,7 +169,7 @@ Detailed documentation available in `/docs`:
 2. Navigate to Pages section
 3. Select `main` branch
 4. Click Save
-5. Your site will be live at `https://YOUR_USERNAME.github.io/sweet-treats/html/index.html`
+5. Your site will be live at `https://henilraiyani7.github.io/sweet-treats/html/index.html`
 
 ### Netlify
 1. Drag & drop the project folder to Netlify
@@ -197,8 +193,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+- GitHub: [@henilraiyani7](https://github.com/henilraiyani7)
+- LinkedIn: [Henil Raiyani](https://linkedin.com/in/henilraiyani)
 
 ## 🙏 Acknowledgments
 
@@ -208,10 +204,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For any queries, reach out at: your.email@example.com
+For any queries, reach out at: henilraiyani7.email@example.com
 
 ---
 
 ⭐ **Star this repo if you find it helpful!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Henil Raiyani]
