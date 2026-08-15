@@ -109,17 +109,6 @@ All data is stored in browser's localStorage:
 | **contact.html** | Contact form & information |
 | **admin-panel.html** | Complete admin dashboard |
 
-## 🎨 Screenshots
-
-### Homepage
-![Homepage](#)
-
-### Product Catalog
-![Products](#)
-
-### Admin Dashboard
-![Admin](#)
-
 ## 🧪 Testing
 
 Test files are included:
